@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  api:
+    build:
+      context: ./GerenciamentoColaboradoresEmpresa.Api
+    ports:
+      - "8080:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    depends_on:
+      - db
+      - domain
+      - infrastructure
+
+  domain:
+    build:
+      context: ./GerenciamentoColaboradoresEmpresa.Domain
+
+  infrastructure:
+    build:
+      context: ./GerenciamentoColaboradoresEmpresa.Infrastructure
+    depends_on:
+      - domain
+
+  db:
+    image: mysql:latest
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: T4mandu4
+      MYSQL_DATABASE: projeto_db

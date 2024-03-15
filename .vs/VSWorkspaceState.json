@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GerenciamentoColaboradoresEmpresa.Api",
+    "\\GerenciamentoColaboradoresEmpresa.Domain",
+    "\\GerenciamentoColaboradoresEmpresa.Infrastructure",
+    "\\GerenciamentoColaboradoresEmpresa.Tests"
+  ],
+  "SelectedNode": "\\GerenciamentoColaboradoresEmpresa.Infrastructure",
+  "PreviewInSolutionExplorer": false
+}

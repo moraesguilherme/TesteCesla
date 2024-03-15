@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\services\\informacoesempresaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\services\\colaboradorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\repositories\\informacoesempresarepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\repositories\\colaboradorrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\controllers\\informacoesempresacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\controllers\\colaboradorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26484F13-5882-4E29-82B2-6D247B4B3773}|..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.infrastructure\\repositories\\informacoesempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26484F13-5882-4E29-82B2-6D247B4B3773}|..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.infrastructure\\repositories\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26484F13-5882-4E29-82B2-6D247B4B3773}|..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\services\\informacoesempresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\repositories\\interfaces\\iinformacoesempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\repositories\\interfaces\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\models\\entities\\informacoesempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\models\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\services\\colaboradormappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:services\\colaboradormappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\services\\informacoesempresamappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:services\\informacoesempresamappingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\controllers\\informacoesempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:controllers\\informacoesempresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\models\\entities\\informacoesempresadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:models\\entities\\informacoesempresadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\models\\entities\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:models\\entities\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:controllers\\colaboradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26484F13-5882-4E29-82B2-6D247B4B3773}|..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.infrastructure\\gerenciamentocolaboradoresempresa.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DE525E-93B9-4427-A7EA-BB9476791985}|..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.tests\\gerenciamentocolaboradoresempresa.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26484F13-5882-4E29-82B2-6D247B4B3773}|..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.infrastructure\\migrations\\20240314001815_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26484F13-5882-4E29-82B2-6D247B4B3773}|..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B9C584-5225-4728-A510-70E41E564926}|..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.domain\\gerenciamentocolaboradoresempresa.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|c:\\gerenciamentocolaboradoresempresa\\src\\gerenciamentocolaboradoresempresa.api\\gerenciamentocolaboradoresempresa.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{517F2C53-0860-42CA-AA20-6FF7E2EE108B}|GerenciamentoColaboradoresEmpresa.Api.csproj|solutionrelative:gerenciamentocolaboradoresempresa.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InformacoesEmpresaRepositoryTests.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\InformacoesEmpresaRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\InformacoesEmpresaRepositoryTests.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\InformacoesEmpresaRepositoryTests.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\InformacoesEmpresaRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:08:36.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColaboradorServiceTests.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\ColaboradorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\ColaboradorServiceTests.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\ColaboradorServiceTests.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\ColaboradorServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:08:12.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InformacoesEmpresaServiceTests.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\InformacoesEmpresaServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\InformacoesEmpresaServiceTests.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\InformacoesEmpresaServiceTests.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Services\\InformacoesEmpresaServiceTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:08:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradorRepositoryTests.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\ColaboradorRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\ColaboradorRepositoryTests.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\ColaboradorRepositoryTests.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Repositories\\ColaboradorRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:08:28.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformacoesEmpresaControllerTests.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\InformacoesEmpresaControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\InformacoesEmpresaControllerTests.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\InformacoesEmpresaControllerTests.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\InformacoesEmpresaControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:08:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColaboradorControllerTests.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\ColaboradorControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\ColaboradorControllerTests.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\ColaboradorControllerTests.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\Controllers\\ColaboradorControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:08:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformacoesEmpresaRepository.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\InformacoesEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\InformacoesEmpresaRepository.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\InformacoesEmpresaRepository.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\InformacoesEmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:16:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\ColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\ColaboradorRepository.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\ColaboradorRepository.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Repositories\\ColaboradorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:56:08.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:20:41.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InformacoesEmpresaService.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\InformacoesEmpresaService.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\InformacoesEmpresaService.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\InformacoesEmpresaService.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\InformacoesEmpresaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:51:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IInformacoesEmpresaRepository.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IInformacoesEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IInformacoesEmpresaRepository.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IInformacoesEmpresaRepository.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IInformacoesEmpresaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:44:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IColaboradorRepository.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IColaboradorRepository.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Repositories\\Interfaces\\IColaboradorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:42:34.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InformacoesEmpresa.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\InformacoesEmpresa.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\InformacoesEmpresa.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\InformacoesEmpresa.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\InformacoesEmpresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:50:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\Colaborador.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\Colaborador.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\Colaborador.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Models\\Entities\\Colaborador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:43:54.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColaboradorService.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\ColaboradorService.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\ColaboradorService.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\ColaboradorService.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\Services\\ColaboradorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:59:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:12:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ColaboradorMappingService.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Services\\ColaboradorMappingService.cs",
+              "RelativeDocumentMoniker": "Services\\ColaboradorMappingService.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Services\\ColaboradorMappingService.cs",
+              "RelativeToolTip": "Services\\ColaboradorMappingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:50:14.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InformacoesEmpresaMappingService.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Services\\InformacoesEmpresaMappingService.cs",
+              "RelativeDocumentMoniker": "Services\\InformacoesEmpresaMappingService.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Services\\InformacoesEmpresaMappingService.cs",
+              "RelativeToolTip": "Services\\InformacoesEmpresaMappingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:46:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InformacoesEmpresaController.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Controllers\\InformacoesEmpresaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformacoesEmpresaController.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Controllers\\InformacoesEmpresaController.cs",
+              "RelativeToolTip": "Controllers\\InformacoesEmpresaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:45:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InformacoesEmpresaDto.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Models\\Entities\\InformacoesEmpresaDto.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\InformacoesEmpresaDto.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Models\\Entities\\InformacoesEmpresaDto.cs",
+              "RelativeToolTip": "Models\\Entities\\InformacoesEmpresaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:50:11.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ColaboradorDto.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Models\\Entities\\ColaboradorDto.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\ColaboradorDto.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Models\\Entities\\ColaboradorDto.cs",
+              "RelativeToolTip": "Models\\Entities\\ColaboradorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:50:09.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColaboradorController.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Controllers\\ColaboradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColaboradorController.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\Controllers\\ColaboradorController.cs",
+              "RelativeToolTip": "Controllers\\ColaboradorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:45:00.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GerenciamentoColaboradoresEmpresa.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\GerenciamentoColaboradoresEmpresa.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T18:31:08.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GerenciamentoColaboradoresEmpresa.Tests.csproj",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Tests\\GerenciamentoColaboradoresEmpresa.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T17:03:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAswBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:07:34.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240314001815_InitialMigration.cs",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\20240314001815_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\20240314001815_InitialMigration.cs",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\20240314001815_InitialMigration.cs",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Infrastructure\\Migrations\\20240314001815_InitialMigration.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAzwCcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:22:10.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GerenciamentoColaboradoresEmpresa.Api.csproj",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\GerenciamentoColaboradoresEmpresa.Api.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoColaboradoresEmpresa.Api.csproj",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Api\\GerenciamentoColaboradoresEmpresa.Api.csproj",
+              "RelativeToolTip": "GerenciamentoColaboradoresEmpresa.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T22:33:08.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GerenciamentoColaboradoresEmpresa.Domain.csproj",
+              "DocumentMoniker": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj",
+              "ToolTip": "C:\\GerenciamentoColaboradoresEmpresa\\src\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj",
+              "RelativeToolTip": "..\\GerenciamentoColaboradoresEmpresa.Domain\\GerenciamentoColaboradoresEmpresa.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T22:33:10.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

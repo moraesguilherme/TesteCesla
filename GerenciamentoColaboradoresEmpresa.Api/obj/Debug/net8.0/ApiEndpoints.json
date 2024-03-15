@@ -1,0 +1,142 @@
+[
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.ColaboradorController",
+    "Method": "Get",
+    "RelativePath": "api/Colaborador",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GerenciamentoColaboradoresEmpresa.Api.Models.Entities.ColaboradorDto, GerenciamentoColaboradoresEmpresa.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.ColaboradorController",
+    "Method": "Post",
+    "RelativePath": "api/Colaborador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "colaboradorDto",
+        "Type": "GerenciamentoColaboradoresEmpresa.Api.Models.Entities.ColaboradorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.ColaboradorController",
+    "Method": "Get",
+    "RelativePath": "api/Colaborador/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GerenciamentoColaboradoresEmpresa.Api.Models.Entities.ColaboradorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.ColaboradorController",
+    "Method": "Put",
+    "RelativePath": "api/Colaborador/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "colaboradorDto",
+        "Type": "GerenciamentoColaboradoresEmpresa.Api.Models.Entities.ColaboradorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.ColaboradorController",
+    "Method": "Delete",
+    "RelativePath": "api/Colaborador/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.InformacoesEmpresaController",
+    "Method": "Get",
+    "RelativePath": "api/InformacoesEmpresa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GerenciamentoColaboradoresEmpresa.Api.Models.Entities.InformacoesEmpresaDto, GerenciamentoColaboradoresEmpresa.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GerenciamentoColaboradoresEmpresa.Api.Controllers.InformacoesEmpresaController",
+    "Method": "Put",
+    "RelativePath": "api/InformacoesEmpresa/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "informacoesEmpresaDto",
+        "Type": "GerenciamentoColaboradoresEmpresa.Api.Models.Entities.InformacoesEmpresaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

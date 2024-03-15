@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GerenciamentoColaboradoresEmpresa.Api.props" />
+</Project>
